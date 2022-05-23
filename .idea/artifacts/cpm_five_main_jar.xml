@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="cpm_five.main:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/cpm_five_main_jar</output-path>
+    <root id="archive" name="cpm_five.main.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="cpm_five.main" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-fxml/15.0.1/5c36ae238f6d0d5782febed0af9a26defa7c0182/javafx-fxml-15.0.1-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-controls/15.0.1/7e951231ff36d704e8cc8b112b71951c9ccbc15d/javafx-controls-15.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-graphics/15.0.1/604e26ca8730f8d996b5c203532f85f4b62894fb/javafx-graphics-15.0.1-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-base/15.0.1/49cf29d155e98c749fdeb517a97f79c6a9e8cb6a/javafx-base-15.0.1-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-graphics/15.0.1/55565f47d9d4e295f8bdeb8a6577e29b8bc29267/javafx-graphics-15.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fazecast/jSerialComm/2.9.1/9017dc39fc063489c2e509f0bde8096a57c2e5c0/jSerialComm-2.9.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-base/15.0.1/88d5d4ad546e17904516fd05be69243e54144af4/javafx-base-15.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-controls/15.0.1/4df40eb93a7afd9ed3d7ccfee2701e9cb2215155/javafx-controls-15.0.1-win.jar" path-in-jar="/" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/main/resources" />
+    </root>
+  </artifact>
+</component>
